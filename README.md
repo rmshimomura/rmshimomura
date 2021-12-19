@@ -2,7 +2,7 @@
 
 Algumas informações:
 
-- 🔭 Atualmente no terceiro semestre de Ciências da Computação
+- 🔭 Atualmente no quarto semestre de Ciências da Computação
 - 🌱 Atualmente estudando linguagem C e Java, futuramente Python...
 - 📫 Entre em contato: shimomura.rodrigo@uel.br
 
