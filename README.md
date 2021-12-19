@@ -1,10 +1,10 @@
-### Olá 👋
+### Hello! 👋
 
-Algumas informações:
+Some info:
 
-- 🔭 Atualmente no quarto semestre de Ciências da Computação
-- 🌱 Atualmente estudando linguagem C e Java, futuramente Python...
-- 📫 Entre em contato: shimomura.rodrigo@uel.br
+- 🔭 Current on the fourth semester of Computer Science
+- 🌱 Studying C language and Java, Python on the future...
+- 📫 Contact: shimomura.rodrigo@uel.br
 
 
 <p align="center">
