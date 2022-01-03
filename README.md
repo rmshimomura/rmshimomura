@@ -6,8 +6,14 @@ Some info:
 - 🌱 Studying C language and Java, Python on the future...
 - 📫 Contact: shimomura.rodrigo@uel.br
 
-[![rmshimomura's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmshimomura&theme=merko&count_private=true&hide=prs&hide_border=true)](https://github.com/rmshimomura/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmshimomura&layout=compact&theme=merko&hide_border=true)](https://github.com/rmshimomura/github-readme-stats)
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmshimomura&theme=merko&count_private=true&hide=prs&hide_border=true" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmshimomura&layout=compact&theme=merko&hide_border=true" />
+</p>
+
 
 <p align="center">
   <a href="https://portal.uel.br/home/">
