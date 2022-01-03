@@ -9,6 +9,6 @@ Some info:
 ---------------------------------------------------------------
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rmshimomura&theme=merko&count_private=true&border_color=white&show_icons=true&border_radius=20" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmshimomura&layout=compact&theme=merko&border_color=white&border_radius=20" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rmshimomura&theme=highcontrast&count_private=true&border_color=white&show_icons=true&border_radius=20" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmshimomura&layout=compact&theme=highcontrast&border_color=white&border_radius=20" />
 </p>
