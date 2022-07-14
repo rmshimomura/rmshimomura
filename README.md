@@ -2,8 +2,8 @@
 
 Some info:
 
-- 🔭 Current on the fourth semester of Computer Science
-- 🌱 Studying C language and Java, Python on the future...
+- 🔭 Current on the fifth semester of Computer Science
+- 🌱 Studying C language, Java, Python and NodeJS
 - 📫 Contact: shimomura.rodrigo@uel.br
 
 ---------------------------------------------------------------
