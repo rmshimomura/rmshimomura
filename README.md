@@ -2,7 +2,7 @@
 
 Some info:
 
-- 🔭 Current on the fifth semester of Computer Science
+- 🔭 Current on the sixth semester of Computer Science
 - 🌱 Studying C language, Java, Python and NodeJS
 - 📫 Contact: shimomura.rodrigo@uel.br
 
