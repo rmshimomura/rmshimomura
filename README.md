@@ -5,6 +5,7 @@ Academic info:
 - 🎯 Experience with C, Python, Java, NodeJS, PostgreSQL
 - 🌱 Studying about Docker
 - 📝 Scientific initiation scholarship holder at CNPQ with emphasis on the movement of Asian rust spores in the state of Paraná (2022-2023)
+- 🎓 Undergraduate final paper in the Database Area: Analyzing and Comparing Similarity Searches in Complex Data Indexing Structures
 ---------------------------------------------------------------
 Contests:
 - 🥇 1st place on [Code Rerun 2022](https://www.ieeeuel.org/coderrerun/) (Amantes de Estruturas de Dados's team)
