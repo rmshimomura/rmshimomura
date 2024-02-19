@@ -1,9 +1,8 @@
 ### Hello! 👋
 
 Academic info:
-- 🔭 Current on the seventh semester of Computer Science
-- 🎯 Experience with C, Python, Java, NodeJS, PostgreSQL
-- 🌱 Studying about Docker
+- 🔭 Current on the eighth semester of Computer Science
+- 🎯 Experience with C, Python, Java, NodeJS, PostgreSQL, Docker
 - 📝 Scientific initiation scholarship holder at CNPQ with emphasis on the movement of Asian rust spores in the state of Paraná (2022-2023)
 - 🎓 Undergraduate final paper in the Database Area: Analyzing and Comparing Similarity Searches in Complex Data Indexing Structures
 ---------------------------------------------------------------
