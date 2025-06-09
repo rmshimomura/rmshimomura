@@ -6,10 +6,13 @@ Academic info:
 - 📝 First scientific initiation scholarship holder at CNPQ with emphasis on the movement of Asian rust spores in the state of Paraná (2022~2023)
 - 📝 Second scientific initiation scholarship holder at Fundação Araucúaria with emphasis on analysis and comparison of structures that indexes complex data with additional conditions (2023~2024)
 - 🎓 Graduate final paper in the Database Area: Analyzing and Comparing Similarity Searches in Complex Data Indexing Structures with additional conditions
+- 🥇 Certificate of Merit for achieving the highest GPA amound the graduating class (9,44 of 10), in recognition of academic excellence and dedication
+  - Class of 2020
+  - Issued by State University of Londrina (UEL)
 ---------------------------------------------------------------
 Experience info:
 - 💻 FullStack developer at Geo bio gas&carbon (2024~)
-  - React, FastAPI, SQLAlchemy, PostgreSQL
+  - React, FastAPI, SQLAlchemy, PostgreSQL, SAP S/4HANA
 ---------------------------------------------------------------
 Contests:
 - 🥇 1st place on [Code Rerun 2022](https://www.ieeeuel.org/coderrerun/) (Amantes de Estruturas de Dados's team)
