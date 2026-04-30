@@ -1,6 +1,7 @@
 ### Hello! 👋
 
 Academic info:
+- 🎓 Currently on a MBA of Cybersecurity on USP - ESALQ
 - 🔭 Graduation on Computer Science
 - 🎯 Experience with C, C++, Python, Java, NodeJS, PostgreSQL, Docker
 - 📝 First scientific initiation scholarship holder at CNPQ with emphasis on the movement of Asian rust spores in the state of Paraná (2022~2023)
