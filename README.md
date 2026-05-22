@@ -3,7 +3,7 @@
 Academic info:
 - 🎓 Currently on a MBA of Cybersecurity on USP - ESALQ
 - 🔭 Graduation on Computer Science
-- 🎯 Experience with C, C++, Python, Java, NodeJS, PostgreSQL, Docker
+- 🎯 Experience with C, C++, Python, Java, NodeJS, PostgreSQL, Docker, SAP
 - 📝 First scientific initiation scholarship holder at CNPQ with emphasis on the movement of Asian rust spores in the state of Paraná (2022~2023)
 - 📝 Second scientific initiation scholarship holder at Fundação Araucúaria with emphasis on analysis and comparison of structures that indexes complex data with additional conditions (2023~2024)
 - 🎓 Graduate final paper in the Database Area: Analyzing and Comparing Similarity Searches in Complex Data Indexing Structures with additional conditions
