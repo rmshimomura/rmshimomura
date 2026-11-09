@@ -37,7 +37,7 @@ I care about writing software that is not just functional, but well-structured a
 
 ## 💼 Experience
 
-**Full-Stack Developer** — Geo Bio Gas & Carbon *(2024 – present)*
+**Full-Stack Developer** — Geo Bio Gas & Carbon *(Out 2024 – Out 2026)*
 - Building full-stack systems with **React**, **FastAPI**, **SQLAlchemy**, and **PostgreSQL**
 - Integrating with **SAP S/4HANA** for enterprise data workflows
 
